@@ -1,0 +1,4 @@
+README.rdoc
+
+Web Crawler for data mining purposes. I have not yet determined which
+industry to mine data from.
